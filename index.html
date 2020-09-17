@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing page</title>
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+    </style> 
+</head>
+<body>
+  <section class="sec">
+    <header>
+      <a href="#"><img src="images/logo.png" class="logo"></a>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Product</a></li>
+        <li><a href="#">What's new</a></li>
+        <li><a href="#">Newletters</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </header>
+    <div class="content">
+      <div class="textBox">
+        <h2>This What<br><span>I Like</span></h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta laudantium velit voluptatem, asperiores possimus nam voluptatibus aspernatur alias dolor sequi culpa laboriosam quod earum minima reprehenderit. Veritatis quia reiciendis facere.</p>
+        <a href="#">View more product</a>
+      </div>
+      <div class="imgBox">
+        <img src="./images/pepsi001.png" alt="pepsi_img" class="pepsi">
+      </div>
+    </div>
+    <ul class="thumb">
+      <li><img src="./images/pepsi001.png" class="imgBox" onmouseover="changeBgColor('#0062be'); imgSlider('./images/pepsi001.png')"></li>
+      <li><img src="./images/pepsi002.png" class="imgBox" onmouseover="changeBgColor('#e60c2c'); imgSlider('./images/pepsi002.png')"></li>
+      <li><img src="./images/pepsi003.png" class="imgBox" onmouseover="changeBgColor('#1e1e1e'); imgSlider('./images/pepsi003.png')"></li>
+    </ul>
+    <ul class="social">
+      <li><a><img src="./images/facebook.png"></a></li>
+      <li><a><img src="./images/instagram.png"></a></li>
+      <li><a><img src="./images/twitter.png"></a></li>
+    </ul>
+  </section>
+
+  <script src="./script.js"></script>
+</body>
+</html>
