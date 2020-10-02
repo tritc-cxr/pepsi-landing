@@ -1,0 +1,13 @@
+pendo.guides=[];
+pendo.normalizedUrl="http://projects.invisionapp.com/d/main#!/console/19913835/431770624/inspect";
+pendo.lastGuideStepSeen={"guideId":"CRE_MhAFNs8hg2jZLeEgJopl1oY","guideStepId":"SLMFbhtQF0tUIUIcAKtYZfcSa04","time":1598350686234,"lastDismissedAutoAt":1598350686234,"isMultiStep":false,"state":"dismissed"};
+pendo.guideWidget={"enabled":false,"hidePoweredBy":false,"data":{"guideCssUrl":"","onboarding":false}};
+pendo.guideCssUrl="";
+pendo.throttling={"count":1,"enabled":true,"interval":5,"unit":"Day"};
+pendo.autoOrdering=["b0cHVKMwtdf9n5CbXZElw_rc8nI","hwyUsvD1_GiXCUzTUJi4P9SFO_E","QQfUk_4EQsDZVe2cDyuMvDPdvHc","0P-KQkIGkD0YHT_dmzSUGT3O79A","Zm4qPpoGWRyEdRPVzHAd6IFeuX8","JKdsuk3GISZDEFvhYMQpVuHS8A8","4I324ntHGNZqhKjb3EENFlLTyCg","Gjep7njMgeESrD7Ur0DQ2F2dKAQ","06ybw8WpQvhbYEKc_HLbpH9lU_I","hl6e0JsSswlCDYCXczDLR2dzcUM","01fhP82iAhNB8NRmYYrLko39Hhw","GSKXFz2MSRYCXFXhn81b-dfRPtA","1Gpc7APoPnFfKGSGOdoTI_ryFbI","fjT4qYb0e2rnQKvG50e-ScQwvUM","_vN_eFtWw9PnYDPCFMfx1cQIHpc","YM5YB-CI-im6Lh2xszEF2A4v6rE","bpgpuFWfw853clw1VUXwOfeEU3k","CRE_MhAFNs8hg2jZLeEgJopl1oY","rSpKtvoL1PStj5OdNXOk8drHvZQ","o5Fj-GikKSfHBaautp-SnIJM5XI","IgqueJ3yjTkO7M_vXHLp9P2MBW0","YPjCHJDh89dqoNxvf4V8FqqpiXw","D1WDhwC-P0lDLZs4FnA4xlCnAHo","hPOUF8jENUSt9iremM_bbQIOUEI","rnwUjVOYw2nE0ahyIYFpoymWaG4","8SxD31gLqiWdT6DwW_zYZlxf2Vk"];
+pendo.globalJsUrl="";
+pendo.segmentFlags=[];
+pendo.designerEnabled=false;
+pendo.features=[];
+pendo.latestDismissedAutoAt=1598350686234;
+pendo.preventCodeInjection=false;
